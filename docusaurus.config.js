@@ -12,9 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'N1connys', // Usually your GitHub org/user name.
-  projectName: 'lifeblog', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  projectName: 'guide', // Usually your repo name.
 
   presets: [
     [
@@ -30,7 +28,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/N1connys/hexoblog',
+            'https://github.com/N1connys/guide',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
