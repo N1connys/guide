@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'N1connys', // Usually your GitHub org/user name.
   projectName: 'guide', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+ 
 
   presets: [
     [
